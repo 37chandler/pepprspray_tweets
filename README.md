@@ -14,3 +14,14 @@ The Pepper_Lexical_Analysis notebook contains the code that I used to conduct ba
 
 More information about the twitter objects used to curate this text data can be found here: https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/overview/tweet-object
 I have not included my API keys in this repo; you will need to modify the code to pull from your personal keys.
+
+## Feedback
+
+Nice README, thanks for orienting me. 
+
+Kind of cool to see the sentiments conform to what we would think they'd be. Self-defense makes sense 
+as a most-positive one. The mace result is striking. 
+
+This all looks good, consider it **complete**.
+
+Too bad this isn't TSWD so I could give you shit for not having commas in your y-axes. Oh well...
